@@ -29,6 +29,7 @@ h1{
       position: relative;
       background-color: #e60000;
       color:#ffe6e6;
+      margin-bottom: 10px;
 
 	}
 	
@@ -40,6 +41,8 @@ h1{
 		top:0;
 		right:0;
 		margin:0px;
+		background-color: #ffff99;
+		color: #0077b3;
 
 	}	
 
@@ -67,6 +70,8 @@ h1{
 		top:0;
 		right:0;
 		margin:0px;
+		background-color: #ffff99;
+		color: #0077b3;
 
 	}
 
@@ -89,6 +94,8 @@ h1{
 		top:0;
 		right:0;
 		margin:0px;
+		background-color: #ffff99;
+		color: #0077b3;
 
 	}
 
